@@ -1,7 +1,7 @@
 #include <iostream>
 #include <fstream>
 
-#define NUMERO_MASSIMO_CONTATTI 200
+#define NUMERO_MASSIMO_CONTATTI 20
 #define PERCORSO_FILE "Rubrica.dat"
 
 using namespace std;
